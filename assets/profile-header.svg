@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">MK Jaswanth — QA engineer who builds quality products</title>
+  <desc id="desc">A dark QA command-center banner with release signals and quality checkpoints.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0d1425"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d0d8"/>
+      <stop offset="0.55" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#39d0d8" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#39d0d8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8b949e" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="panel"><rect x="18" y="18" width="1164" height="294" rx="24"/></clipPath>
+    <style>
+      .label{font:600 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px}
+      .title{font:800 66px Inter,Segoe UI,Arial,sans-serif;letter-spacing:3px}
+      .subtitle{font:600 18px Inter,Segoe UI,Arial,sans-serif;letter-spacing:4px}
+      .pill{font:700 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.2px}
+      .scan{animation:scan 7s linear infinite}
+      .pulse{animation:pulse 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .pulse.delay{animation-delay:.9s}.pulse.delay2{animation-delay:1.8s}
+      @keyframes scan{from{transform:translateX(-500px)}to{transform:translateX(1400px)}}
+      @keyframes pulse{0%,100%{opacity:.45;transform:scale(.82)}50%{opacity:1;transform:scale(1.18)}}
+      @media (prefers-reduced-motion:reduce){.scan,.pulse{animation:none}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="330" fill="#050a12"/>
+  <rect x="18" y="18" width="1164" height="294" rx="24" fill="url(#bg)" stroke="#26344c"/>
+  <g clip-path="url(#panel)">
+    <rect x="18" y="18" width="1164" height="294" fill="url(#grid)"/>
+    <circle cx="162" cy="46" r="210" fill="url(#cyanGlow)"/>
+    <circle cx="1090" cy="300" r="250" fill="url(#violetGlow)"/>
+    <rect class="scan" x="-430" y="18" width="430" height="294" fill="url(#signal)" opacity=".045" transform="skewX(-16)"/>
+  </g>
+
+  <g transform="translate(52 48)">
+    <circle cx="6" cy="6" r="6" fill="#39d0d8" filter="url(#softGlow)"/>
+    <text x="24" y="11" fill="#8b949e" class="label">QUALITY.SIGNAL / PROFILE</text>
+    <rect x="918" y="-7" width="160" height="28" rx="14" fill="#22c55e" fill-opacity=".1" stroke="#22c55e" stroke-opacity=".45"/>
+    <circle class="pulse" cx="936" cy="7" r="4" fill="#22c55e"/>
+    <text x="950" y="11" fill="#86efac" class="pill">OPEN TO WORK</text>
+  </g>
+
+  <g transform="translate(70 128)">
+    <text x="0" y="0" fill="#f0f6fc" class="title">MK JASWANTH</text>
+    <rect x="2" y="22" width="734" height="3" rx="1.5" fill="url(#signal)"/>
+    <text x="2" y="61" fill="#c9d1d9" class="subtitle">QA ENGINEER WHO BUILDS QUALITY PRODUCTS</text>
+  </g>
+
+  <g transform="translate(72 256)">
+    <g>
+      <rect width="168" height="34" rx="8" fill="#0a1b27" stroke="#39d0d8" stroke-opacity=".35"/>
+      <circle class="pulse" cx="18" cy="17" r="4" fill="#39d0d8"/>
+      <text x="32" y="21" fill="#8be8ec" class="pill">MANUAL INSIGHT</text>
+    </g>
+    <g transform="translate(184)">
+      <rect width="180" height="34" rx="8" fill="#10182c" stroke="#60a5fa" stroke-opacity=".35"/>
+      <circle class="pulse delay" cx="18" cy="17" r="4" fill="#60a5fa"/>
+      <text x="32" y="21" fill="#93c5fd" class="pill">AUTOMATION SCALE</text>
+    </g>
+    <g transform="translate(380)">
+      <rect width="196" height="34" rx="8" fill="#17152b" stroke="#a78bfa" stroke-opacity=".4"/>
+      <circle class="pulse delay2" cx="18" cy="17" r="4" fill="#a78bfa"/>
+      <text x="32" y="21" fill="#c4b5fd" class="pill">RELEASE CONFIDENCE</text>
+    </g>
+  </g>
+
+  <g transform="translate(866 112)" opacity=".92">
+    <path d="M0 100h42l18-36 30 74 28-112 28 82h34l20-42 24 34h68" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="pulse" cx="60" cy="64" r="5" fill="#39d0d8"/>
+    <circle class="pulse delay" cx="118" cy="26" r="5" fill="#60a5fa"/>
+    <circle class="pulse delay2" cx="200" cy="66" r="5" fill="#a78bfa"/>
+    <text x="0" y="166" fill="#65758b" class="label">RISK → EVIDENCE → RELEASE</text>
+  </g>
+</svg>

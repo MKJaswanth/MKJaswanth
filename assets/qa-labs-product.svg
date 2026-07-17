@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">QA Labs test management software</title>
+  <desc id="desc">A product overview connecting requirements, test cases, runs, defects, coverage, and release signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39d0d8"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8b949e" opacity=".12"/></pattern>
+    <style>
+      .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .kicker{font-size:12px;font-weight:700;letter-spacing:2px}.h1{font-size:46px;font-weight:800;letter-spacing:-1px}
+      .body{font-size:17px}.small{font-size:12px}.metric{font-size:25px;font-weight:800}.card-title{font-size:14px;font-weight:700}
+      .flow{stroke-dasharray:7 8;animation:flow 7s linear infinite}@keyframes flow{to{stroke-dashoffset:-150}}
+      .blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{50%{opacity:.35}}
+      @media(prefers-reduced-motion:reduce){.flow,.blink{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="518" rx="23" fill="none" stroke="#2b3952"/>
+  <rect width="1200" height="520" rx="24" fill="url(#dots)"/>
+
+  <g transform="translate(64 62)">
+    <g>
+      <rect width="52" height="52" rx="14" fill="#39d0d8" fill-opacity=".12" stroke="#39d0d8" stroke-opacity=".45"/>
+      <path d="M26 12 39 18v10c0 9-6 15-13 18-7-3-13-9-13-18V18l13-6Z" fill="none" stroke="#39d0d8" stroke-width="2.5"/>
+      <path d="m20 28 4 4 8-9" fill="none" stroke="#a7f3d0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="70" y="18" fill="#8be8ec" class="mono kicker">FEATURED PRODUCT</text>
+    <text x="70" y="52" fill="#f0f6fc" class="sans h1">QA Labs</text>
+    <text x="0" y="100" fill="#c9d1d9" class="sans body">One workspace for the signals that decide</text>
+    <text x="0" y="126" fill="#c9d1d9" class="sans body">whether a release is ready.</text>
+
+    <g transform="translate(0 164)">
+      <rect width="430" height="64" rx="12" fill="#0c1828" stroke="#2b435c"/>
+      <text x="18" y="25" fill="#8b949e" class="mono small">PROBLEM</text>
+      <text x="18" y="47" fill="#e6edf3" class="sans" font-size="14" font-weight="600">Scattered test evidence slows decisions.</text>
+    </g>
+    <g transform="translate(0 240)">
+      <rect width="430" height="64" rx="12" fill="#15142a" stroke="#42376a"/>
+      <text x="18" y="25" fill="#a78bfa" class="mono small">PRODUCT RESPONSE</text>
+      <text x="18" y="47" fill="#e6edf3" class="sans" font-size="14" font-weight="600">Connect coverage, execution, defects, and reports.</text>
+    </g>
+    <g transform="translate(0 332)">
+      <circle cx="6" cy="6" r="6" fill="#22c55e" class="blink"/>
+      <text x="22" y="11" fill="#86efac" class="mono kicker">LIVE PRODUCT</text>
+    </g>
+  </g>
+
+  <g transform="translate(558 46)">
+    <rect width="580" height="428" rx="18" fill="#f8fafc"/>
+    <rect width="580" height="54" rx="18" fill="#ffffff"/>
+    <path d="M0 54h580" stroke="#dbe3ec"/>
+    <rect x="18" y="15" width="24" height="24" rx="7" fill="#fb4568"/>
+    <path d="m25 27 4 4 7-9" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <text x="52" y="32" fill="#111827" class="sans" font-size="16" font-weight="800">QA Labs</text>
+    <g transform="translate(244 18)" fill="#6b7280" class="mono small">
+      <text x="0" y="12">PROJECTS</text><text x="92" y="12">REPORTS</text><text x="174" y="12">ACTIVITY</text>
+    </g>
+    <circle cx="538" cy="27" r="15" fill="#fee2e7"/><text x="533" y="32" fill="#e11d48" class="sans" font-size="13" font-weight="800">J</text>
+
+    <text x="28" y="92" fill="#111827" class="sans" font-size="22" font-weight="800">Release health</text>
+    <text x="28" y="114" fill="#6b7280" class="sans small">Evidence across the active QA workspace</text>
+
+    <g transform="translate(28 138)">
+      <g><rect width="118" height="76" rx="11" fill="#fff" stroke="#dbe3ec"/><rect width="4" height="76" rx="2" fill="#39d0d8"/><text x="16" y="25" fill="#9ca3af" class="mono small">TEST CASES</text><text x="16" y="56" fill="#111827" class="sans metric">248</text></g>
+      <g transform="translate(130)"><rect width="118" height="76" rx="11" fill="#fff" stroke="#dbe3ec"/><rect width="4" height="76" rx="2" fill="#a78bfa"/><text x="16" y="25" fill="#9ca3af" class="mono small">PASS RATE</text><text x="16" y="56" fill="#7c3aed" class="sans metric">94%</text></g>
+      <g transform="translate(260)"><rect width="118" height="76" rx="11" fill="#fff" stroke="#dbe3ec"/><rect width="4" height="76" rx="2" fill="#fb4568"/><text x="16" y="25" fill="#9ca3af" class="mono small">OPEN BUGS</text><text x="16" y="56" fill="#e11d48" class="sans metric">07</text></g>
+      <g transform="translate(390)"><rect width="118" height="76" rx="11" fill="#fff" stroke="#dbe3ec"/><rect width="4" height="76" rx="2" fill="#22c55e"/><text x="16" y="25" fill="#9ca3af" class="mono small">COVERAGE</text><text x="16" y="56" fill="#15803d" class="sans metric">91%</text></g>
+    </g>
+
+    <g transform="translate(28 236)">
+      <rect width="524" height="158" rx="12" fill="#fff" stroke="#dbe3ec"/>
+      <text x="18" y="28" fill="#111827" class="sans card-title">Connected QA workflow</text>
+      <path class="flow" d="M58 82H466" fill="none" stroke="url(#brand)" stroke-width="3"/>
+      <g transform="translate(22 54)"><circle cx="36" cy="28" r="22" fill="#ecfeff" stroke="#67e8f9"/><text x="17" y="63" fill="#475569" class="mono small">REQUIRE</text><text x="29" y="34" fill="#0891b2" class="sans" font-size="17" font-weight="800">R</text></g>
+      <g transform="translate(124 54)"><circle cx="36" cy="28" r="22" fill="#eef2ff" stroke="#a5b4fc"/><text x="23" y="63" fill="#475569" class="mono small">TEST</text><path d="m28 28 5 5 11-13" fill="none" stroke="#4f46e5" stroke-width="3" stroke-linecap="round"/></g>
+      <g transform="translate(226 54)"><circle cx="36" cy="28" r="22" fill="#fef2f2" stroke="#fca5a5"/><text x="23" y="63" fill="#475569" class="mono small">TRIAGE</text><circle cx="36" cy="28" r="8" fill="none" stroke="#dc2626" stroke-width="3"/><path d="M36 15v6M36 35v6M23 28h6M43 28h6" stroke="#dc2626" stroke-width="2"/></g>
+      <g transform="translate(328 54)"><circle cx="36" cy="28" r="22" fill="#f5f3ff" stroke="#c4b5fd"/><text x="19" y="63" fill="#475569" class="mono small">VERIFY</text><path d="m28 28 5 5 11-13" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round"/></g>
+      <g transform="translate(430 54)"><circle cx="36" cy="28" r="22" fill="#f0fdf4" stroke="#86efac"/><text x="15" y="63" fill="#475569" class="mono small">RELEASE</text><path d="M29 37V19l16 9-16 9Z" fill="#16a34a"/></g>
+    </g>
+  </g>
+</svg>
