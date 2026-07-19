@@ -1,3 +1,5 @@
+![MK Jaswanth QA release dossier](assets/qa-release-dossier.svg)
+
 # MK Jaswanth
 
 **QA Engineer · Software Tester · Python and Playwright Automation**
@@ -6,49 +8,32 @@
 
 I test web and mobile products through exploratory, functional, regression, and API testing. For repeatable browser coverage, I build automation with Python, Playwright, pytest, and the Page Object Model.
 
-I like working close to the product: understanding what can fail, turning requirements into useful coverage, and reporting defects with enough evidence for the team to act. I am open to QA Engineer, Automation Tester, and SDET opportunities.
+I work close to the product: understanding what can fail, turning requirements into useful coverage, and reporting defects with enough evidence for a team to act. I am open to QA Engineer, Automation Tester, and SDET opportunities.
 
-## QA Labs
+## QA Labs — built to fix a testing workflow
 
-**Test management software for practical QA teams**
-
-I built QA Labs after seeing test information spread across spreadsheets, chat threads, and disconnected tools. The product keeps the working parts of a QA cycle together: projects, requirements, test cases, coverage, plans, runs, defects, reports, activity history, and backups.
-
-The project combines product definition, QA workflow design, and implementation around a problem I have encountered in day-to-day testing.
+> **Problem** — Test information gets scattered across spreadsheets, messages, and disconnected tools.
+>
+> **Build** — I created one test-management workspace for projects, requirements, test cases, coverage, plans, runs, defects, reports, activity history, and backups.
+>
+> **Why it matters** — QA Labs combines product definition, practical QA workflow design, and implementation around a problem I have encountered in day-to-day testing.
 
 [Open QA Labs](https://qa-labs-seven.vercel.app/) · [View source](https://github.com/MKJaswanth/QA-labs)
 
-## Selected work
+## Selected evidence
 
-Across 4+ projects, I have designed 200+ test cases per project for e-commerce, LMS, and other web-product workflows.
+Across 4+ projects—including e-commerce and LMS products—I have designed 200+ test cases per project.
 
-### E-commerce automation
-
-A Playwright and pytest framework covering authentication, inventory, cart, and checkout. It uses page objects, fixtures, parameterization, HTML reports, environment-based configuration, and GitHub Actions.
-
-[View repository](https://github.com/MKJaswanth/E-commerce_automation)
-
-### Playwright Pytest QA Skill
-
-A reusable workflow for designing, running, and reporting browser tests with Playwright and pytest.
-
-[View repository](https://github.com/MKJaswanth/playwright-pytest-qa-skill)
-
-### QA portfolio
-
-My longer-form portfolio with project context, testing work, and ways to contact me.
-
-[Open portfolio](https://mkjaswanth.github.io/portfolio/) · [View repository](https://github.com/MKJaswanth/portfolio)
-
-### BugAuraLabs
-
-A QA services site that explains testing scope, defect reporting, and engagement options for product teams.
-
-[Open website](https://bugauralabs.studio/) · [View repository](https://github.com/MKJaswanth/BugAuraLabs)
+| Work | What it demonstrates |
+| --- | --- |
+| [E-commerce Automation](https://github.com/MKJaswanth/E-commerce_automation) | Playwright and pytest coverage for authentication, inventory, cart, and checkout using page objects, fixtures, parameterization, HTML reports, environment configuration, and GitHub Actions. |
+| [Playwright Pytest QA Skill](https://github.com/MKJaswanth/playwright-pytest-qa-skill) | A reusable workflow for designing, running, and reporting browser tests with Playwright and pytest. |
+| [QA Portfolio](https://mkjaswanth.github.io/portfolio/) | Longer-form project context, testing work, and the decisions behind the work. [Source](https://github.com/MKJaswanth/portfolio). |
+| [BugAuraLabs](https://bugauralabs.studio/) | A QA services site explaining testing scope, defect reporting, and engagement options for product teams. [Source](https://github.com/MKJaswanth/BugAuraLabs). |
 
 [See all repositories and contribution activity](https://github.com/MKJaswanth?tab=overview)
 
-## Testing experience and tools
+## Working toolkit
 
 **Testing:** Manual, exploratory, functional, regression, API, test design, defect lifecycle
 
@@ -58,7 +43,7 @@ A QA services site that explains testing scope, defect reporting, and engagement
 
 **Foundations:** SQL, HTML, CSS, JavaScript, AI-assisted testing
 
-## How I work
+## Quality approach
 
 - Understand the product and user risk before selecting coverage.
 - Explore first, then automate stable paths that benefit from repetition.
@@ -67,7 +52,5 @@ A QA services site that explains testing scope, defect reporting, and engagement
 ## Outside QA
 
 Away from testing, I spend time listening to music, travelling, and reading. They keep me curious about how people use products and solve everyday problems.
-
-## Contact
 
 For QA Engineer, Automation Tester, or SDET opportunities, contact me through [LinkedIn](https://www.linkedin.com/in/mkjaswanth/) or [email](mailto:jaswanth.mk63@gmail.com).

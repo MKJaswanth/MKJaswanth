@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title description">
+  <title id="title">MK Jaswanth — QA release dossier</title>
+  <desc id="description">A concise profile graphic presenting MK Jaswanth as a QA Engineer who turns product risk into test coverage, automation, and clear evidence.</desc>
+
+  <rect width="1200" height="520" fill="#f3efe6"/>
+  <rect width="14" height="520" fill="#df4b55"/>
+
+  <g fill="#17191c">
+    <text x="64" y="53" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2.4">PROFILE / RELEASE QUALITY</text>
+    <text x="64" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" letter-spacing="-1.5">MK JASWANTH</text>
+    <text x="66" y="169" font-family="Arial, 'Segoe UI', sans-serif" font-size="17" font-weight="700" letter-spacing="1.2">QA ENGINEER / SOFTWARE TESTER / AUTOMATION</text>
+
+    <rect x="866" y="29" width="270" height="44" fill="none" stroke="#17191c" stroke-width="1.5"/>
+    <text x="1001" y="56" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.1">OPEN TO QA / AUTOMATION / SDET</text>
+
+    <line x1="64" y1="198" x2="1136" y2="198" stroke="#17191c" stroke-width="1.5"/>
+
+    <text x="64" y="264" font-family="Georgia, 'Times New Roman', serif" font-size="37" font-weight="700">I turn product risk into useful</text>
+    <text x="64" y="311" font-family="Georgia, 'Times New Roman', serif" font-size="37" font-weight="700">test coverage and clear evidence.</text>
+    <text x="66" y="356" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1.1">MANUAL · EXPLORATORY · API · PLAYWRIGHT / PYTHON</text>
+
+    <rect x="762" y="226" width="374" height="158" fill="#ebe5da" stroke="#17191c" stroke-width="1.2"/>
+    <rect x="762" y="226" width="7" height="158" fill="#df4b55"/>
+    <text x="792" y="258" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.7" fill="#bf3542">CASE FILE / QA LABS</text>
+    <text x="792" y="291" font-family="Arial, 'Segoe UI', sans-serif" font-size="16" font-weight="700">Testing work gets scattered.</text>
+    <text x="792" y="318" font-family="Arial, 'Segoe UI', sans-serif" font-size="15">I built one workspace for requirements,</text>
+    <text x="792" y="342" font-family="Arial, 'Segoe UI', sans-serif" font-size="15">cases, coverage, runs, bugs and reports.</text>
+    <text x="792" y="369" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="1">PRODUCT THINKING / QA WORKFLOW DESIGN</text>
+
+    <line x1="64" y1="420" x2="1136" y2="420" stroke="#17191c" stroke-width="1.5"/>
+
+    <g font-family="Arial, 'Segoe UI', sans-serif">
+      <circle cx="69" cy="458" r="5" fill="#df4b55"/>
+      <text x="84" y="462" font-size="14" font-weight="700">UNDERSTAND RISK</text>
+      <text x="84" y="485" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#62636a">PRODUCT + USER IMPACT</text>
+
+      <line x1="258" y1="458" x2="308" y2="458" stroke="#a49f96" stroke-width="1"/>
+      <circle cx="323" cy="458" r="5" fill="#df4b55"/>
+      <text x="338" y="462" font-size="14" font-weight="700">DESIGN COVERAGE</text>
+      <text x="338" y="485" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#62636a">CASES + EDGE CONDITIONS</text>
+
+      <line x1="522" y1="458" x2="572" y2="458" stroke="#a49f96" stroke-width="1"/>
+      <circle cx="587" cy="458" r="5" fill="#df4b55"/>
+      <text x="602" y="462" font-size="14" font-weight="700">AUTOMATE STABLE PATHS</text>
+      <text x="602" y="485" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#62636a">PLAYWRIGHT + PYTEST</text>
+
+      <line x1="814" y1="458" x2="864" y2="458" stroke="#a49f96" stroke-width="1"/>
+      <circle cx="879" cy="458" r="5" fill="#df4b55"/>
+      <text x="894" y="462" font-size="14" font-weight="700">REPORT EVIDENCE</text>
+      <text x="894" y="485" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#62636a">REPRODUCIBLE + ACTIONABLE</text>
+    </g>
+  </g>
+</svg>
