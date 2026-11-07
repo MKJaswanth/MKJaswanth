@@ -21,7 +21,7 @@
 
     <rect x="762" y="226" width="374" height="158" fill="#ebe5da" stroke="#17191c" stroke-width="1.2"/>
     <rect x="762" y="226" width="7" height="158" fill="#df4b55"/>
-    <text x="792" y="258" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.7" fill="#bf3542">CASE FILE / QA LABS</text>
+    <text x="792" y="258" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.7" fill="#bf3542">CASE FILE / QA LAB</text>
     <text x="792" y="291" font-family="Arial, 'Segoe UI', sans-serif" font-size="16" font-weight="700">Testing work gets scattered.</text>
     <text x="792" y="318" font-family="Arial, 'Segoe UI', sans-serif" font-size="15">I built one workspace for requirements,</text>
     <text x="792" y="342" font-family="Arial, 'Segoe UI', sans-serif" font-size="15">cases, coverage, runs, bugs and reports.</text>
