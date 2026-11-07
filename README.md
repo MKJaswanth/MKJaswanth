@@ -1,63 +1,80 @@
-<div align="center"><!-- Dynamic Typing Header -->
-<a href="https://github.com/MKJaswanth">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&width=820&lines=Hey+there!+I'm+MK+Jaswanth+%F0%9F%91%8B;QA+Automation+Engineer+%7C+SDET+%7C+Software+Tester;Founder+%40+BugAura+Labs+(bugauralabs.studio);Creator+of+QA+Lab+%E2%80%94+Test+Management+Platform;Playwright+%E2%80%A2+Pytest+%E2%80%A2+TypeScript+%E2%80%A2+AI+%26+API+Quality" alt="MK Jaswanth Typing SVG" />
-</a><p align="center">
-<strong>QA Automation Engineer &amp; Software Tester</strong> specializing in end-to-end <strong>Playwright (Python/Pytest &amp; TypeScript)</strong> frameworks, multi-module <strong>ERP/POS &amp; E-Commerce validation</strong>, <strong>API/RBAC security testing</strong>, and <strong>non-deterministic AI/LLM output evaluation</strong>.
-</p><!-- Quick Action & Social Badges -->
-<p align="center">
-<a href="https://mkjaswanth.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-mkjaswanth.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://bugauralabs.studio">
-<img src="https://img.shields.io/badge/Studio-bugauralabs.studio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="BugAura Labs" />
-</a>
-<a href="https://www.linkedin.com/in/mkjaswanth">
-<img src="https://img.shields.io/badge/LinkedIn-MKJaswanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://qaskills.sh/skills/mkjaswanth/python-playwright-pytest-suite">
-<img src="https://img.shields.io/badge/QASkills-Playwright_Pytest_Suite-F59E0B?style=for-the-badge&logo=pytest&logoColor=white" alt="QASkills" />
-</a>
-<a href="mailto:jaswanth.mk63@gmail.com">
-<img src="https://img.shields.io/badge/Email-jaswanth.mk63%40gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p></div>⚡ Quick Snapshot (whoami)name: "MK Jaswanth"
-location: "Coimbatore, Tamil Nadu, India (Open to Remote & Full-Time SDET / QA Roles)"
-current_roles:
-  - "QA Engineer / Junior Software Tester @ Crystal Code Labs (Apr 2026 – Present)"
-  - "Founder & Lead QA Consultant @ BugAura Labs (bugauralabs.studio)"
-  - "Creator & Maintainer @ QA Lab (Pandalabs-QA-Lab)"
-previous_experience:
-  - "Contractual QA Specialist @ Instawork AI Labs (AI Video Pipeline QA)"
-  - "QA Engineer @ Isaii AI (Web, Mobile & Non-Deterministic LLM Evaluation)"
-  - "Data & Quality Validation Intern @ Christ Infotech (NLP & Sentiment Scoring QA)"
-education:
-  - "M.Sc. in Data Science — Nehru Arts and Science College, Coimbatore (2024–2026 | CGPA: 8.20)"
-  - "B.Sc. in Computer Science — Nehru Arts and Science College, Coimbatore (2021–2024 | CGPA: 7.90)"
-core_focus:
-  - "End-to-End UI & API Automation (Playwright, Pytest, TypeScript, Page Object Model)"
-  - "Breaking Multi-Module ERPs, POS Billing Workflows, B2B/D2C Storefronts & RBAC Guards"
-  - "Evaluating Non-Deterministic GenAI / LLM Pipelines & Hallucination Heuristics"
-🛠️ Technical Arsenal & QA ToolingTest Automation & Quality Engineering<p>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/Page_Object_Model-6366F1?style=for-the-badge&logo=gitbook&logoColor=white" alt="POM" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
-</p>Languages, Backend & Data Science<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Firebase_/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Pandas%26_Scikit--Learn-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas & Scikit-Learn" />
-</p>🚀 Flagship Repositories, Products & FrameworksProject / RepositoryCategory & StackKey Engineering & Quality HighlightsQA Lab  (Org: Pandalabs-QA-Lab)Test Management SaaS  TypeScript React Firestore VercelIn-house web-based QA workspace uniting requirements, test plans, snapshot-versioned test cases, browser bug capture, requirement-to-test-case coverage matrices, real-time dashboards, audit trails, and JSON backup/restore.Billz-E2E-Test-FrameworkERP/POS E2E Automation  Playwright Python Pytest POM CI/CDModular end-to-end automation framework with GitHub Actions CI/CD and HTML reporting covering Restaurant & Medical ERP workflows (Master Data, PO-to-GRN, FIFO Inventory, Billing, Vouchers).BugAura Labs  (bugauralabs.studio)QA Studio Platform  Web QA Ops GitHub PagesOfficial platform for BugAura Labs, an independent software QA studio offering 72-hour audit sprints, E2E Playwright automation packages, and pre-launch validation for startups and agencies.E-commerce_automationStorefront E2E Suite  Playwright Python Pytest GitHub ActionsAutomated regression suite validating D2C/B2B e-commerce catalog discovery, cart subtotal logic, guest checkout validation, and payment retry workflows.Python Playwright Pytest SuitePublished QA Agent Skill  Playwright Pytest POM FixturesOpen-source Codex / QA automation skill (playwright-pytest-qa-skill) for scaffolding maintainable Page Object Model test suites, parametrized fixtures, and CI/CD execution reports.Emotion_Dashboard (MoodFlow)AI & Mental Health Web App  Django Python Scikit-learn NLPAI-assisted mental health prediction platform achieving 85–90% diagnostic accuracy and accelerating patient assessment timelines by 35%, backed by full manual and API test validation.Developer & QA Portfolio  (mkjaswanth.github.io/portfolio)Interactive Portfolio  HTML5 CSS3 JavaScript GitHub PagesShowcase of live test automation frameworks, real-world bug audit case studies, defect reports, and data science engineering projects.🎯 Production QA Audits & Defect Discovery HighlightsSystem / Domain AuditedTesting ScopeHigh-Severity Engineering Findings & ImpactCrystal Billz Restaurant & Medical ERP/POS24-Hr E2E Manual, API & Playwright RegressionUncovered 14+ critical/high defects, including HTTP 500 server crashes on branch edits, duplicate GSTIN acceptance, orphan PO supplier deletions, and intermittent 403 multi-tab session errors.Lead Management System (LMS)API Validation & Playwright TypeScript RBAC SuiteIsolated unhandled Prisma P2002 HTTP 500 database exceptions on duplicate email updates, unauthorized Agent role access to /settings, and flawed partial-string duplicate checks.EBCO E-Commerce Platform97-Case Change Request, Payment & Strapi CMS AuditCaught a critical "Variant not found" purchase blocker on non-variant products across 30-minute Retry Payment flows and a high-severity privacy bug exposing deleted-account order history upon email re-registration.B2B & D2C Storefronts (ClicksToCart, C2C Imex, RaceNation, PandaSpot)Cross-Browser, Guest Checkout & PWA OnboardingIdentified broken cart quantity/subtotal math, 404 routing across 9 product categories, invalid reCAPTCHA keys, misrouted slider CTAs, and QR/PWA onboarding edge cases.AI & LLM Product Pipelines (Isaii AI, Instawork AI Labs, Christ Infotech)Non-Deterministic LLM & NLP Pipeline ValidationDesigned reusable evaluation heuristics beyond binary pass/fail assertions to measure hallucination rates, semantic consistency, video clipping thresholds, and NLP sentiment scoring across 10,000+ reviews.🏆 Research, Hackathons & Leadership📄 Published Conference Research (ICCICT-2K26): Presented LLM Hallucination Detection & Ethical GenAI Quality Evaluation at the 3rd International Conference on Computational Intelligence and Communication Technologies.🚀 Hackathon Leadership: Team Lead for Smart India Hackathon 2025 (built an AI-Enhanced Career Guidance System with Python & FastAPI), Selected Participant at Hac'KP 2025 (Kerala Police Cyberdome), and Participant at EY Techathon 6.0.🥇 Competition Wins: 1st Place in Code Craft Competition (Nehru Institute of Engineering), 2nd Place in Nehru College Hackathon (₹3,000 cash prize), and 2nd Place in Debugging & Paper Presentation competitions.🎓 Campus Leadership: Served as Chairman of the Phoenix Association at Nehru Arts and Science College, Coimbatore.📊 GitHub Analytics & Contribution Activity<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MKJaswanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="MKJaswanth GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKJaswanth&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="MKJaswanth Top Languages" />
-</div><div align="center">
-<img src="https://streak-stats.demolab.com?user=MKJaswanth&theme=tokyonight&hide_border=true&background=0D1117" alt="MKJaswanth GitHub Streak" />
-</div>🤝 Let's Connect & Build Reliable SoftwareWhether you're hiring for a QA Automation Engineer / SDET role or looking for a 72-hour pre-launch QA audit sprint for your web, mobile, or AI product through BugAura Labs, feel free to reach out:🌐 Portfolio: mkjaswanth.github.io/portfolio🧪 QA Studio: bugauralabs.studio💼 LinkedIn: linkedin.com/in/mkjaswanth📧 Email: jaswanth.mk63@gmail.com
+![MK Jaswanth: QA engineer who turns product risk into test coverage and clear evidence](assets/qa-release-dossier.svg)
+
+# MK Jaswanth
+
+**QA Engineer at Crystal Code Labs · Founder of BugAura Labs · Coimbatore, India**
+
+<a href="https://mkjaswanth.github.io/-Jaswanth-QA-portfolio/"><kbd>Portfolio ↗</kbd></a> <a href="https://bugauralabs.studio/"><kbd>BugAura Labs ↗</kbd></a> <a href="https://www.linkedin.com/in/mkjaswanth/"><kbd>LinkedIn ↗</kbd></a> <a href="mailto:jaswanth.mk63@gmail.com"><kbd>Email</kbd></a>
+
+I test web, mobile, and AI products. At Crystal Code Labs most of my work is on restaurant and medical ERP/POS systems, where I mix manual and API testing with Playwright regression suites in Python and TypeScript.
+
+Outside the day job I run BugAura Labs, a small QA studio that does short pre-launch audits for startups and agencies, and I build QA Lab, the test management tool I use for my own work. Before this I tested LLM and AI video pipelines. The same input could produce different output there, so I wrote evaluation rules instead of exact-match assertions.
+
+I'm open to remote and full-time QA Engineer and SDET roles.
+
+## QA Lab
+
+On most teams I've tested for, requirements sit in one document, test cases in a spreadsheet, and bugs in a tracker that doesn't know about either. QA Lab keeps a full QA cycle in one place: requirements, snapshot-versioned test cases, a requirement-to-test coverage matrix, plans and runs, browser bug capture, dashboards, an audit trail, and JSON backup and restore.
+
+Built with TypeScript, React, and Firestore. Deployed on Vercel.
+
+[![QA Lab project dashboard with test cases, requirements, test runs, bug tracker, and coverage metrics](assets/qa-labs-showcase.png)](https://qaura.bugauralabs.studio/)
+
+<a href="https://qaura.bugauralabs.studio/"><kbd>Open QA Lab ↗</kbd></a> <a href="https://github.com/Pandalabs-QA-Lab"><kbd>View Source ↗</kbd></a>
+
+## What I've found in production
+
+Selected findings from client work and audits.
+
+| Product | How I tested it | What I found |
+| --- | --- | --- |
+| Crystal Billz restaurant and medical ERP/POS | Manual, API, and Playwright regression in a 24-hour cycle | 14+ critical and high defects, including HTTP 500s on branch edits, duplicate GSTINs being accepted, suppliers deletable while purchase orders still referenced them, and intermittent 403s with the app open in several tabs |
+| Lead management system | API checks and a Playwright TypeScript RBAC suite | Unhandled Prisma P2002 errors surfacing as HTTP 500 on duplicate email updates, Agent-role users reaching `/settings`, and a duplicate check that matched partial strings |
+| EBCO e-commerce platform | 97 cases across a change request, payments, and the Strapi CMS | A "Variant not found" error blocking purchase of non-variant products during the 30-minute payment retry window, and a deleted account's order history reappearing when the same email registered again |
+| B2B and D2C storefronts: ClicksToCart, C2C Imex, RaceNation, PandaSpot | Cross-browser, guest checkout, and PWA onboarding | Wrong cart subtotals when quantities changed, 404s across 9 product categories, invalid reCAPTCHA keys, slider CTAs linking to the wrong pages, and QR/PWA onboarding edge cases |
+| AI products at Isaii AI, Instawork AI Labs, and Christ Infotech | LLM, video, and NLP output evaluation | Reusable heuristics for hallucination rate, semantic consistency, and video clipping thresholds, plus sentiment-scoring checks across 10,000+ reviews |
+
+## Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Billz E2E Test Framework ↗](https://github.com/MKJaswanth/Billz-E2E-Test-Framework)** | End-to-end framework for restaurant and medical ERP flows: master data, PO to GRN, FIFO inventory, billing, and vouchers. Runs in parallel with HTML reports on GitHub Actions. | Playwright, Python, pytest, POM |
+| **[E-commerce Automation ↗](https://github.com/MKJaswanth/E-commerce_automation)** | 21 tests across login, inventory, cart, and checkout on SauceDemo, run on Chromium, Firefox, and WebKit with screenshots on failure. | Playwright, Python, pytest, GitHub Actions |
+| **[Playwright Pytest QA Skill ↗](https://github.com/MKJaswanth/playwright-pytest-qa-skill)** | A Codex skill that scaffolds Playwright and pytest suites with UI and API tests, cleanup, HTML reports, failure artifacts, and CI. Listed on [QASkills ↗](https://qaskills.sh/skills/mkjaswanth/python-playwright-pytest-suite). | Python, Playwright, pytest |
+| **[BugAura Labs ↗](https://bugauralabs.studio/)** | Site for my QA studio: 72-hour audit sprints, Playwright automation packages, and pre-launch checks. [Source ↗](https://github.com/MKJaswanth/BugAuraLabs) | Web, GitHub Pages |
+| **MoodFlow** | A mental health prediction app using NLP on user text, with 85–90% model accuracy. I tested it manually and at the API level. | Django, Python, scikit-learn |
+
+[Browse all repositories ↗](https://github.com/MKJaswanth?tab=repositories)
+
+## Experience
+
+- **QA Engineer / Junior Software Tester**, Crystal Code Labs · Apr 2026 – present
+- **Founder and Lead QA Consultant**, BugAura Labs · current
+- **Contract QA Specialist**, Instawork AI Labs · AI video pipeline QA
+- **QA Engineer**, Isaii AI · web, mobile, and LLM evaluation
+- **Data and Quality Validation Intern**, Christ Infotech · NLP sentiment scoring
+
+**Education:** M.Sc. Data Science (2024–2026, CGPA 8.20) and B.Sc. Computer Science (2021–2024, CGPA 7.90), Nehru Arts and Science College, Coimbatore
+
+## Toolkit
+
+**Testing:** manual, exploratory, functional, regression, API, RBAC and access control, LLM output evaluation, defect lifecycle
+
+**Automation:** Playwright (Python and TypeScript), pytest, Selenium, Page Object Model, fixtures, data-driven tests
+
+**Tools:** Postman, Chrome DevTools, Git, GitHub Actions, Jira
+
+**Languages and data:** Python, TypeScript, JavaScript, SQL, Django, FastAPI, Firebase/Firestore, pandas, scikit-learn
+
+## Research and recognition
+
+- Presented a paper on LLM hallucination detection and quality evaluation for generative AI at ICCICT-2K26, the 3rd International Conference on Computational Intelligence and Communication Technologies.
+- Led my team at Smart India Hackathon 2025 with an AI career guidance system in Python and FastAPI. Selected for Hac'KP 2025 (Kerala Police Cyberdome) and took part in EY Techathon 6.0.
+- 1st place at Code Craft (Nehru Institute of Engineering), 2nd place at the Nehru College Hackathon, and 2nd place in debugging and paper presentation competitions.
+- Chairman of the Phoenix Association at Nehru Arts and Science College.
+
+## Outside QA
+
+When I'm not testing, I'm usually listening to music, planning a trip, or reading something new. Anime also finds its way into the small visual projects I build for fun.
+
+For QA Engineer or SDET roles, or a pre-launch audit through BugAura Labs: <a href="https://www.linkedin.com/in/mkjaswanth/"><kbd>LinkedIn ↗</kbd></a> <a href="mailto:jaswanth.mk63@gmail.com"><kbd>Email</kbd></a>
