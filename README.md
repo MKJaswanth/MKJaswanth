@@ -1,6 +1,4 @@
-<a href="https://mkjaswanth.github.io/-Jaswanth-QA-portfolio/">
-  <img src="assets/hero-test-run.svg" alt="MK Jaswanth, QA Engineer and SDET. A pytest run plays on the right and six profile checks pass." width="100%" />
-</a>
+![MK Jaswanth: QA engineer who turns product risk into test coverage and clear evidence](assets/qa-release-dossier.svg)
 
 # MK Jaswanth
 
@@ -16,117 +14,25 @@ I'm open to remote and full-time QA Engineer and SDET roles.
 
 ## QA Lab
 
-On most teams I've tested for, requirements sit in one document, test cases in a spreadsheet, and bugs in a tracker that doesn't know about either. QA Lab keeps a full QA cycle in one place.
+On most teams I've tested for, requirements sit in one document, test cases in a spreadsheet, and bugs in a tracker that doesn't know about either. QA Lab keeps a full QA cycle in one place: requirements, snapshot-versioned test cases, a requirement-to-test coverage matrix, plans and runs, browser bug capture, dashboards, an audit trail, and JSON backup and restore.
+
+Built with TypeScript, React, and Firestore. Deployed on Vercel.
 
 [![QA Lab project dashboard with test cases, requirements, test runs, bug tracker, and coverage metrics](assets/qa-labs-showcase.png)](https://qaura.bugauralabs.studio/)
 
 <a href="https://qaura.bugauralabs.studio/"><kbd>Open QA Lab ↗</kbd></a> <a href="https://github.com/Pandalabs-QA-Lab"><kbd>View Source ↗</kbd></a>
 
-<details>
-<summary><b>What's inside QA Lab</b></summary>
-<br>
+## What I've found in production
 
-| Module | What it does |
-| --- | --- |
-| Requirements | Track scope and link each requirement to the cases that cover it |
-| Test cases | Snapshot-versioned, so you can see what a case looked like when it ran |
-| Coverage matrix | Requirement-to-test coverage at a glance, with gaps visible |
-| Plans and runs | Group cases into milestones and record execution results |
-| Bug tracker | Browser bug capture with triage history |
-| Reports and activity | Real-time dashboards and an audit trail of who changed what |
-| Backup | JSON backup and restore per project |
+Selected findings from client work and audits.
 
-Built with TypeScript, React, and Firestore. Deployed on Vercel.
-
-</details>
-
-## Bug reports from real projects
-
-Selected findings from client work and audits. Click a report to open it.
-
-<details>
-<summary><b>BUG-01 · Crystal Billz ERP/POS</b> · <code>critical</code> · 14+ critical and high defects in one 24-hour cycle</summary>
-<br>
-
-**Scope:** manual, API, and Playwright regression across restaurant and medical workflows
-
-**Found:**
-- HTTP 500 when editing a branch
-- Duplicate GSTINs accepted without a warning
-- Suppliers deletable while purchase orders still referenced them
-- Intermittent 403s with the app open in several tabs
-
-</details>
-
-<details>
-<summary><b>BUG-02 · Lead management system</b> · <code>high</code> · role checks and unhandled database errors</summary>
-<br>
-
-**Scope:** API checks and a Playwright TypeScript RBAC suite
-
-**Found:**
-- Unhandled Prisma P2002 errors surfacing as HTTP 500 on duplicate email updates
-- Agent-role users could reach `/settings`
-- The duplicate check matched partial strings, so valid records were rejected
-
-</details>
-
-<details>
-<summary><b>BUG-03 · EBCO e-commerce</b> · <code>critical</code> · purchase blocker and a privacy leak</summary>
-<br>
-
-**Scope:** 97 test cases across a change request, payments, and the Strapi CMS
-
-**Found:**
-- "Variant not found" blocked purchase of non-variant products during the 30-minute payment retry window
-- A deleted account's order history reappeared when the same email registered again
-
-</details>
-
-<details>
-<summary><b>BUG-04 · B2B and D2C storefronts</b> · <code>high</code> · ClicksToCart, C2C Imex, RaceNation, PandaSpot</summary>
-<br>
-
-**Scope:** cross-browser, guest checkout, and PWA onboarding
-
-**Found:**
-- Cart subtotals went wrong when quantities changed
-- 404s across 9 product categories
-- Invalid reCAPTCHA keys in production
-- Slider CTAs linking to the wrong pages
-- QR and PWA onboarding edge cases
-
-</details>
-
-<details>
-<summary><b>EVAL-05 · AI products</b> · <code>non-deterministic</code> · Isaii AI, Instawork AI Labs, Christ Infotech</summary>
-<br>
-
-**Scope:** LLM, AI video, and NLP output evaluation
-
-**Built:**
-- Reusable heuristics for hallucination rate and semantic consistency, used where exact-match assertions don't work
-- Clipping threshold checks for an AI video pipeline
-- Sentiment-scoring validation across 10,000+ reviews
-
-</details>
-
-## How I test
-
-```mermaid
-flowchart LR
-    A[Requirement or change] --> B{What can break?}
-    B --> C[Test design<br/>cases and edge conditions]
-    C --> D[Exploratory pass]
-    D -->|stable and repeated| E[Playwright + pytest]
-    D -->|something is off| F[Bug report<br/>steps, env, evidence]
-    E --> G[GitHub Actions]
-    G -->|failure| F
-    F --> H[Fix verified,<br/>regression test added]
-    H --> E
-    class F bug
-    classDef bug fill:#df4b55,stroke:#df4b55,color:#ffffff
-```
+| Product | How I tested it | What I found |
+| --- | --- | --- |
+| Crystal Billz restaurant and medical ERP/POS | Manual, API, and Playwright regression in a 24-hour cycle | 14+ critical and high defects, including HTTP 500s on branch edits, duplicate GSTINs being accepted, suppliers deletable while purchase orders still referenced them, and intermittent 403s with the app open in several tabs |
+| Lead management system | API checks and a Playwright TypeScript RBAC suite | Unhandled Prisma P2002 errors surfacing as HTTP 500 on duplicate email updates, Agent-role users reaching `/settings`, and a duplicate check that matched partial strings |
+| EBCO e-commerce platform | 97 cases across a change request, payments, and the Strapi CMS | A "Variant not found" error blocking purchase of non-variant products during the 30-minute payment retry window, and a deleted account's order history reappearing when the same email registered again |
+| B2B and D2C storefronts: ClicksToCart, C2C Imex, RaceNation, PandaSpot | Cross-browser, guest checkout, and PWA onboarding | Wrong cart subtotals when quantities changed, 404s across 9 product categories, invalid reCAPTCHA keys, slider CTAs linking to the wrong pages, and QR/PWA onboarding edge cases |
+| AI products at Isaii AI, Instawork AI Labs, and Christ Infotech | LLM, video, and NLP output evaluation | Reusable heuristics for hallucination rate, semantic consistency, and video clipping thresholds, plus sentiment-scoring checks across 10,000+ reviews |
 
 ## Selected work
 
@@ -160,26 +66,12 @@ flowchart LR
 
 **Languages and data:** Python, TypeScript, JavaScript, SQL, Django, FastAPI, Firebase/Firestore, pandas, scikit-learn
 
-<details>
-<summary><b>Research, hackathons, and leadership</b></summary>
-<br>
+## Research and recognition
 
 - Presented a paper on LLM hallucination detection and quality evaluation for generative AI at ICCICT-2K26, the 3rd International Conference on Computational Intelligence and Communication Technologies.
 - Led my team at Smart India Hackathon 2025 with an AI career guidance system in Python and FastAPI. Selected for Hac'KP 2025 (Kerala Police Cyberdome) and took part in EY Techathon 6.0.
 - 1st place at Code Craft (Nehru Institute of Engineering), 2nd place at the Nehru College Hackathon, and 2nd place in debugging and paper presentation competitions.
 - Chairman of the Phoenix Association at Nehru Arts and Science College.
-
-</details>
-
-## Contribution graph
-
-Regenerated every morning from my GitHub activity.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MKJaswanth/MKJaswanth/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MKJaswanth/MKJaswanth/output/snake-light.svg" />
-  <img alt="A snake eating MK Jaswanth's GitHub contribution graph" src="https://raw.githubusercontent.com/MKJaswanth/MKJaswanth/output/snake-light.svg" />
-</picture>
 
 ## Outside QA
 
